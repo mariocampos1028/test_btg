@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri:mongodb+srv://mariocampos1028:zAEWbks3yo8KioYc@cluster0.lz3ct.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
